@@ -30,3 +30,20 @@
 
 The players will most likely then head to[[Introduction | Phandalin]]. If they long-rest, nothing will happen.
 
+
+## Play Notes
+
+1. All characters introduced themselves around the fire.
+2. Merrim introduced himself to the players.
+3. The dragon killed all the orcs and Merrim.
+4. Everyone got knocked down to 1hp, and [[Mahmoud - Abu Al Futoo7 Babars]] dealt the blow that scared off the dragon.
+5. The loot was shared equally amongst the players, with [[Imad - Iblees Ibn Iblees]] discovering that the artifact is an [[aid]] artifact with 3 uses left.
+6. After a long rest and arriving at Phandalin, [[Mahmoud - Abu Al Futoo7 Babars]] slapped a child and dealt 3 damage, bruising him and slacking his jaw.
+7. [[Mahmoud - Abu Al Futoo7 Babars]] learned that he can know more about who is seeking from the Inn.
+8. [[Imad - Iblees Ibn Iblees]] was talking to an innkeeper when she was about to tell him the 2nd [[Phandalin Tales]]
+
+
+### To-Do For Next Session
+
+- Prepare the [[Mahmoud - Abu Al Futoo7 Babars]] storyline
+- Read ahead to prepare the story
