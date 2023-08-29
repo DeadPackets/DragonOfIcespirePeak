@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "53a2df119fd520b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c02ec45d9f4d661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d845cdbc9a349f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compendium/bestiary/beast/giant-crocodile.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d1173296a20b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c85a41a9b7e4cdd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0050c2d2722f5bfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "707c8dc0fc410007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4d7cd302f89f775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3bada9df4a83857",
+    "type": "split",
+    "children": [
+      {
+        "id": "73892a0c4005db47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98581d388738afef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "compendium/bestiary/beast/giant-crocodile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17b79d65676e181f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "compendium/bestiary/beast/giant-crocodile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84566fbc93a1849c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf7776c6d48c0fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "compendium/bestiary/beast/giant-crocodile.md"
+              }
+            }
+          },
+          {
+            "id": "98548ed66b1b46e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "83a5eae498594c61",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0050c2d2722f5bfc",
+  "lastOpenFiles": [
+    "README.md",
+    "compendium/bestiary/beast/cow-vgm.md",
+    "compendium/deities/celtic-goibhniu.md",
+    "compendium/deities/celtic-arawn.md",
+    "compendium/spells/astral-projection.md",
+    "compendium/spells/antimagic-field.md",
+    "compendium/spells/animate-objects.md",
+    "dnd/Wiki/Spells/Acid Splash.md",
+    "dnd/Wiki/Spells/## Spell Lists (Wikilinked).md",
+    "compendium/spells/animate-dead.md",
+    "compendium/backgrounds/guild-artisan-guild-merchant-variant.md",
+    "compendium/backgrounds/criminal-spy-variant.md",
+    "compendium/backgrounds/backgrounds.md",
+    "compendium/backgrounds/acolyte.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/09-icespire-hold.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/05-dragon-barrow.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/02-axeholm.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/01-running-the-adventure.md",
+    "rules/skills.md",
+    "rules/damage-types.md",
+    "rules/conditions.md",
+    "rules/actions.md",
+    "dnd/DM Screen.md",
+    "compendium/books/xanathars-guide-to-everything/img/intro03.webp",
+    "compendium/books/xanathars-guide-to-everything/img/intro02.webp",
+    "compendium/books/xanathars-guide-to-everything/img/intro01.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c3001.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2026.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2027.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2028.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2025.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2024.webp",
+    "compendium/books/xanathars-guide-to-everything/img/c2022.webp",
+    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
+    "compendium/rules/variant-rules/tying-knots-xge.md",
+    "compendium/rules/variant-rules/tool-proficiencies-xge.md",
+    "compendium/books/xanathars-guide-to-everything/img",
+    "compendium/books/volos-guide-to-monsters/img",
+    "compendium/books/players-handbook/img",
+    "compendium/books/mordenkainens-tome-of-foes/img",
+    "compendium/books/monster-manual/img",
+    "compendium/books/dungeon-masters-guide/img",
+    "compendium/bestiary/undead/token",
+    "compendium/bestiary/undead/img",
+    "compendium/bestiary/plant/token",
+    "compendium/bestiary/plant/img"
+  ]
+}
