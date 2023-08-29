@@ -1,0 +1,5 @@
+The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see "the rulebook".) Characters in need of weapons or armor are directed to the [Lionshield Coaster](app://obsidian.md/index.html#^cb1a02). Those looking to buy potions of healing are urged to visit Adabra Gwynn at Umbrage Hill (see the "Potions of Healing" sidebar).
+
+The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. He employs a couple of young clerks (Ander and Thistle) who help load and unload wagons, and who wait on customers when Barthen isn't around. Characters who engage Barthen, Ander, or Thistle in friendly conversation are told a tale. Roll a `d6` and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
+
+[[Phandalin Tales]]

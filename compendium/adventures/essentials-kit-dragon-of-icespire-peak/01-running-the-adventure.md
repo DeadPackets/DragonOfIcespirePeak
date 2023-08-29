@@ -264,6 +264,8 @@ The orcs aren't the only creatures thrown into upheaval by Cryovain's sudden arr
 
 ### Welcome to Phandalin
 
+^cb83dc
+
 The frontier town of Phandalin is built on the ruins of a much older settlement. Hundreds of years ago, the old Phandalin was a thriving human town whose people were firmly allied with neighboring dwarves and gnomes. Then an orc horde swept through the area and laid waste to the settlement, and Phandalin was abandoned for centuries.
 
 In the last three or four years, settlers from the cities of Neverwinter and Waterdeep have begun the hard work of reclaiming the ruins of Phandalin. The new settlement is home now to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Sword Mountains. The arrival of a white dragon threatens to destroy all that they've worked to rebuild.
@@ -279,7 +281,7 @@ When you are ready for the adventure to get underway, show the poster map of Pha
 > Visitors are welcome here, particularly if they have coin to spend or news to share. The Stonehill Inn at the center of town offers modest lodging and meals. A couple of doors down from the inn, posted outside the townmaster's hall, is a job board for adventurers.
 ^02b
 
-When the adventurers are ready to inspect the job board, proceed to the "Townmaster's Hall" section.
+When the adventurers are ready to inspect the job board, proceed to the [[#^0ccbc0|Townmaster Hall]]
 
 ### Exploring Phandalin
 
@@ -291,15 +293,17 @@ The characters might wish to explore key establishments within Phandalin. These 
 
 #### Stonehill Inn
 
-This modest, two-story roadhouse has six rooms for rent on the upper floor. A bed for the night costs 5 sp, while a meal costs 1 sp. The proprietor is a short, friendly male human named Toblen Stonehill. Toblen is a native of the town of Triboar to the east. He came to Phandalin to prospect, but soon realized that he knew a lot more about running an inn than he did about mining. If the characters talk to Toblen, he shares a brief tale told to him by one of his regular patrons. Roll a `d6` and consult the Phandalin Tales table to determine which tale Toblen knows, or pick a tale the characters haven't heard yet.
+This modest, two-story roadhouse has six rooms for rent on the upper floor. A bed for the night costs 5 sp, while a meal costs 1 sp. The proprietor is a short, friendly male human named Toblen Stonehill. Toblen is a native of the town of Triboar to the east. He came to Phandalin to prospect, but soon realized that he knew a lot more about running an inn than he did about mining. If the characters talk to Toblen, he shares a brief tale told to him by one of his regular patrons. Roll a `d6` and consult the [[#^147496 | Phandalin Tales]] table to determine which tale Toblen knows, or pick a tale the characters haven't heard yet.
 
 #### Barthen's Provisions
 
-The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see "the rulebook".) Characters in need of weapons or armor are directed to the Lionshield Coster. Those looking to buy potions of healing are urged to visit Adabra Gwynn at Umbrage Hill (see the "Potions of Healing" sidebar).
+The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see "the rulebook".) Characters in need of weapons or armor are directed to the [[#^cb1a02 | Lionshield Coaster]]. Those looking to buy potions of healing are urged to visit Adabra Gwynn at Umbrage Hill (see the "Potions of Healing" sidebar).
 
 The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. He employs a couple of young clerks (Ander and Thistle) who help load and unload wagons, and who wait on customers when Barthen isn't around. Characters who engage Barthen, Ander, or Thistle in friendly conversation are told a tale. Roll a `d6` and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
 
 #### Lionshield Coster
+
+^cb1a02
 
 > [!quote] ...
 > 
@@ -322,7 +326,7 @@ Phandalin's only temple is a shrine made of stones taken from the nearby ruins. 
 
 Sister Garaele is a member of the Harpers, a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. The Harpers gather information throughout the land to thwart tyrants. They aid the weak, the poor, and the oppressed. Sister Garaele regularly reports to her superiors on events in and around Phandalin, and is currently in Neverwinter doing exactly that. In her absence, the shrine is left untended.
 
-**Phandalin Tales**
+**Phandalin Tales** ^147496
 
 | dice: d6 | Tale |
 |----------|------|
@@ -335,6 +339,8 @@ Sister Garaele is a member of the Harpers, a scattered network of adventurers an
 ^phandalin-tales
 
 #### Townmaster's Hall
+
+^0ccbc0
 
 > [!quote] ...
 > 
