@@ -26,7 +26,7 @@
 - A Dragonborn Paladin wearing heavy armor and carrying a sword emitting holy light.
 - Merrim is a lawful good character with a strong focus on saving the world and maintaining peace.
 - He has blue-greenish skin, with sharp blue eyes. He is 7ft tall and 250 lbs heavy.
-- Merrim will tell the players about the Protectors of The Light, a guild that he is a member of.
+- Merrim will tell the players about the **Protectors of The Light**, a guild that he is a member of.
 
 The players will most likely then head to[[Introduction | Phandalin]]. If they long-rest, nothing will happen.
 
@@ -38,9 +38,10 @@ The players will most likely then head to[[Introduction | Phandalin]]. If they l
 3. The dragon killed all the orcs and Merrim.
 4. Everyone got knocked down to 1hp, and [[Mahmoud - Abu Al Futoo7 Babars]] dealt the blow that scared off the dragon.
 5. The loot was shared equally amongst the players, with [[Imad - Iblees Ibn Iblees]] discovering that the artifact is an [[aid]] artifact with 3 uses left.
-6. After a long rest and arriving at Phandalin, [[Mahmoud - Abu Al Futoo7 Babars]] slapped a child and dealt 3 damage, bruising him and slacking his jaw.
-7. [[Mahmoud - Abu Al Futoo7 Babars]] learned that he can know more about who is seeking from the Inn.
-8. [[Imad - Iblees Ibn Iblees]] was talking to an innkeeper when she was about to tell him the 2nd [[Phandalin Tales]]
+6. After a long rest and arriving at Phandalin, [[Ahmed - Abu Uthman Al Ja7eth]] cast [[charm-person|Charm Person]] on a  kid that was trying to start the [[14-umbrage-hill|Umbrage Hill]] Quest.
+7.  [[Mahmoud - Abu Al Futoo7 Babars]] slapped the child and dealt 3 damage, bruising him and slacking his jaw.
+8. [[Mahmoud - Abu Al Futoo7 Babars]] learned that he can know more about who is seeking from the Inn.
+9. [[Imad - Iblees Ibn Iblees]] was talking to an innkeeper when she was about to tell him the 2nd [[Phandalin Tales]]
 
 
 ### To-Do For Next Session

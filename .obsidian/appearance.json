@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [],
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 24
 }

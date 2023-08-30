@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f491839703375114",
+        "id": "7252f5b2c0ebefe3",
         "type": "tabs",
         "children": [
           {
-            "id": "29ae3943f3c9a528",
+            "id": "30e2ad820eccea03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dnd/Campaign/Session Notes/Session 1.md",
+                "file": "dnd/Campaign/World Machine/Custom Encounters/BLANK SPACE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8f352c9eff0f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compendium/adventures/essentials-kit-dragon-of-icespire-peak/01-running-the-adventure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d6aaa97cadf6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd/Campaign/Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,20 +116,12 @@
             }
           },
           {
-            "id": "83a5eae498594c61",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "416512e125d2c60f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dnd/Campaign/Session Notes/Session 1.md",
+                "file": "dnd/Campaign/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dnd/Campaign/Session Notes/Session 1.md",
+                "file": "dnd/Campaign/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +150,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dnd/Campaign/Session Notes/Session 1.md"
+                "file": "dnd/Campaign/Session Notes/Session 2.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "185f5708548cbb79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a5eae498594c61",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
       },
       {
         "id": "9cc235fd8317887d",
@@ -182,44 +213,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29ae3943f3c9a528",
+  "active": "03d6aaa97cadf6af",
   "lastOpenFiles": [
-    "dnd/Campaign/Player Characters/Mahmoud - Abu Al Futoo7 Babars.md",
-    "dnd/Campaign/Player Characters/Ahmed - Abu Uthman Al Ja7eth.md",
+    "dnd/Campaign/World Machine/Organizations/Protectors of The Light.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/17-creatures.md",
+    "dnd/Campaign/World Machine/Custom Encounters/BLANK SPACE.md",
+    "dnd/Campaign/Session Notes/Session 2.md",
     "dnd/Campaign/Session Notes/Session 1.md",
     "compendium/adventures/essentials-kit-dragon-of-icespire-peak/01-running-the-adventure.md",
-    "dnd/Campaign/Player Characters/Imad - Iblees Ibn Iblees.md",
-    "dnd/Campaign/Player Characters/Hassan - Abu Al Hassan Sabah.md",
-    "dnd/Campaign/Player Characters",
-    "dnd/Atlas/Sword Coast/Phandalin/Introduction.md",
-    "dnd/Atlas/Sword Coast/Phandalin/Barthen's Provisions.md",
-    "dnd/Atlas/Sword Coast/Phandalin/Phandalin Tales.md",
-    "dnd/Atlas/Sword Coast/Phandalin/Townmaster's Hall.md",
-    "compendium/items/greatsword.md",
-    "dnd/Atlas/Sword Coast/Phandalin/Untitled.md",
-    "compendium/books/players-handbook/09-adventuring.md",
-    "dnd/DM Screen/0. Screen.md",
-    "README.md",
-    "dnd/DM Screen/Untitled.md",
     "compendium/rewards/charm-of-the-storm-dip.md",
-    "Phandalin.md",
-    "_templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
-    "_templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Quest.md",
-    "_templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
-    "_templates/1. DM Templates/1. Story World Templates/Party/Party Dashboard Template.md",
-    "_templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
-    "_templates/1. DM Templates/1. Story World Templates/People/Database - NPC.md",
-    "_templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
-    "compendium/rewards/rewards.md",
+    "dnd/Atlas/Sword Coast/Phandalin/Townmaster's Hall.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/15-woodland-manse.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/19-quest-cards.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/18-sidekicks.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/16-ending-the-adventure.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/14-umbrage-hill.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/13-tower-of-storms.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/12-shrine-of-savras.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/11-mountains-toe-gold-mine.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/10-loggers-camp.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/09-icespire-hold.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/07-falcons-hunting-lodge.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/06-dwarven-excavation.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/05-dragon-barrow.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/04-circle-of-thunder.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/03-butterskull-ranch.md",
+    "compendium/adventures/essentials-kit-dragon-of-icespire-peak/02-axeholm.md",
+    "dnd/Campaign/World Machine/Custom Encounters/Untitled",
+    "dnd/Campaign/World Machine/Organizations",
+    "dnd/Campaign/NPCs/Sathune.md",
+    "dnd/Campaign/NPCs",
+    "dnd/Campaign/World Machine/Custom Encounters",
     "_templates/1. DM Templates/1. Story World Templates/Session Notes",
     "_templates/1. DM Templates/1. Story World Templates/People",
     "_templates/1. DM Templates/1. Story World Templates/Party",
     "_templates/1. DM Templates/1. Story World Templates/Locations",
     "_templates/1. DM Templates/1. Story World Templates",
     "_templates/1. DM Templates",
-    "dnd/Atlas/Sword Coast/Phandalin",
-    "dnd/Atlas/Sword Coast/Phandalin",
-    "dnd/Atlas/Sword Coast",
     "compendium/books/xanathars-guide-to-everything/img/intro03.webp",
     "compendium/books/xanathars-guide-to-everything/img/intro02.webp",
     "compendium/books/xanathars-guide-to-everything/img/intro01.webp",
